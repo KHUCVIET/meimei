@@ -1,0 +1,26 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    margin: 5px;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+#wapper{
+
+    background: #23292D;
+    min-height: 100vh;
+    font-display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+a.btn-btn{
+    display: inline-block;
+    padding: 8px 16px;
+    background-color:#f5f5f5;
+    border-radius: 30px;
+    text-decoration: none;
+    
+
+}
